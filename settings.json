@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "funsmp01.progamer.me",
-    "port": ,
+    "port": 13691,
     "version": "1.20.1",
     "try-creative": false
   },
